@@ -1,11 +1,11 @@
 # Green Stock Analysis with VBA
 
-##Overview of Project:
+## Overview of Project
 The purpose of this project was to analyze green stocks from 2017 and 2018. Market data such as starting and closing price, trade volume, and yearly return were organized to find trends in this market sector. 
 
-##Results:
+## Results
 The analysis is well described with screenshots and code (4 pt).
 
-##Summary:
+## Summary
 There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
 There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
