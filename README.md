@@ -4,7 +4,8 @@
 The purpose of this project was to analyze green stocks from 2017 and 2018. Market information was pulled from twelve companies covering 3,000 rows of data. By organizing an excel spreadsheet with VBA code, I was able to determine the total trade volume and yearly return for each stock. Not only that, but the code was structured so that anyone can gather this information with a click of a button. 
 
 ## Results
-The analysis is well described with screenshots and code (4 pt).
+
+Green stocks in 2017 did very well with 11 out of 12 companies grossing a profitable 
 
 <img width="355" alt="2017 Results" src="https://user-images.githubusercontent.com/82424250/117390133-36ff1d80-aeb3-11eb-86e6-8db4f4f2fb79.png">
 
