@@ -12,7 +12,12 @@ The analysis is well described with screenshots and code (4 pt).
 
 <img width="258" alt="2017 Initial Run Time" src="https://user-images.githubusercontent.com/82424250/117390245-69a91600-aeb3-11eb-8298-8423de655b09.png">
 
-<img width="347" alt="2018 Results" src="https://user-images.githubusercontent.com/82424250/117390263-70378d80-aeb3-11eb-9c43-be9aac228df9.png">
+<img width="255" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/82424250/117390405-b7258300-aeb3-11eb-8c8e-341af45f7f87.png">
+
+<img width="254" alt="2018 Initial Run Time" src="https://user-images.githubusercontent.com/82424250/117390377-abd25780-aeb3-11eb-9d19-87e3ee7ef6a0.png">
+
+<img width="254" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/82424250/117390442-d0c6ca80-aeb3-11eb-88cd-081a19fa6dbc.png">
+
 
 
 
