@@ -11,9 +11,11 @@ Green stocks in 2017 performed very well with 11 companies earning a positive re
 
 <img width="347" alt="2018 Results" src="https://user-images.githubusercontent.com/82424250/117390140-3bc3d180-aeb3-11eb-9a64-be0b613ffc45.png">
 
+
 To improve the code, I refactored it using a three output array including the tickerIndex and tickerVolumes. As you can see, this significantly improved the run time by cutting off half a second from the intial run times.
 
 <img width="446" alt="Screen Shot 2021-05-06 at 11 47 07 PM" src="https://user-images.githubusercontent.com/82424250/117399204-a1b95480-aec5-11eb-8370-b75ad6952dad.png">
+
 
 **Initial Run times**:
 
