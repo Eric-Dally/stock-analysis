@@ -1,7 +1,7 @@
 # VBA Green Stock Analysis
 
 ## Overview of Project
-The purpose of this project was to analyze green stocks. Daily Market information was pulled from twelve companies from 2017 and 2018. Using VBA code, I was able to determine the total trade volume and yearly return for each stock. Not only that, but I was able to structure the code so that anyone can run it with the click of a button. 
+The purpose of this project was to analyze green stocks. Daily Market information was pulled from twelve companies from 2017 and 2018. Using VBA code, I determined the total trade volume and yearly return for each stock. Not only that, but I was able to structure the code so that anyone can run it with the click of a button. 
 
 ## Results
 
