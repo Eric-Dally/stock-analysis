@@ -6,7 +6,7 @@ The purpose of this project was to analyze green stocks from 2017 and 2018. Mark
 ## Results
 The analysis is well described with screenshots and code (4 pt).
 
-<img width="355" alt="2017 Results" src="https://user-images.githubusercontent.com/82424250/117390133-36ff1d80-aeb3-11eb-86e6-8db4f4f2fb79.png"><img
+<img width="355" alt="2017 Results" src="https://user-images.githubusercontent.com/82424250/117390133-36ff1d80-aeb3-11eb-86e6-8db4f4f2fb79.png">
 
 <img width="347" alt="2018 Results" src="https://user-images.githubusercontent.com/82424250/117390140-3bc3d180-aeb3-11eb-9a64-be0b613ffc45.png">
 
