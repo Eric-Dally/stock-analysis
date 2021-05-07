@@ -17,7 +17,7 @@ To improve the code, I refactored it using a three output array including the ti
 
 **Initial Run times**:
 
-<img width="258" alt="2017 Initial Run Time" src="https://user-images.githubusercontent.com/82424250/117390245-69a91600-aeb3-11eb-8298-8423de655b09.png>
+<img width="258" alt="2017 Initial Run Time" src="https://user-images.githubusercontent.com/82424250/117399431-286e3180-aec6-11eb-97ea-4c294310b8ca.png">
                                                   
 <img width="254" alt="2018 Initial Run Time" src="https://user-images.githubusercontent.com/82424250/117390377-abd25780-aeb3-11eb-9d19-87e3ee7ef6a0.png">
 
