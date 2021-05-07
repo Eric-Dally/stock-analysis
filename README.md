@@ -13,14 +13,14 @@ Green stocks in 2017 did very well with 11 companies earning a positive return. 
 
 To make improve the code, I refactored it using a three output array including the tickerIndex and tickerVolumes. As you can see, this significantly improved the codes performance by shaving off half a second off of each run time. 
 
-##Initial Run times:
+**Initial Run times:
 
 <img width="258" alt="2017 Initial Run Time" src="https://user-images.githubusercontent.com/82424250/117390245-69a91600-aeb3-11eb-8298-8423de655b09.png">
 
 <img width="254" alt="2018 Initial Run Time" src="https://user-images.githubusercontent.com/82424250/117390377-abd25780-aeb3-11eb-9d19-87e3ee7ef6a0.png">
 
 
-##Refactored Code Run Times:
+**Refactored Code Run Times:
 
 <img width="255" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/82424250/117390405-b7258300-aeb3-11eb-8c8e-341af45f7f87.png">
 
