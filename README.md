@@ -11,7 +11,7 @@ Green stocks in 2017 did very well with 11 companies earning a positive return. 
 
 <img width="347" alt="2018 Results" src="https://user-images.githubusercontent.com/82424250/117390140-3bc3d180-aeb3-11eb-9a64-be0b613ffc45.png">
 
-To improve the code, I refactored it using a three output array including the tickerIndex and tickerVolumes. As you can see, this significantly improved the codes performance by shaving off half a second off of each run time. 
+To improve the code, I refactored it using a three output array including the tickerIndex and tickerVolumes. As you can see, this significantly improved the run time by shaving off half a second off of each run time. 
 
 **Initial Run times**:
 
