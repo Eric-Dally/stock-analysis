@@ -1,7 +1,7 @@
 # VBA Green Stock Analysis
 
 ## Overview of Project
-The purpose of this project was to analyze green stocks from 2017 and 2018. Market information was pulled from twelve companies covering 3,013 rows of data. By organizing an excel spreadsheet with VBA code, I was able to determine the total trade volume and yearly return for each stock. Not only that, but I was able to structure the code so that anyone can run it with a click of the button. 
+The purpose of this project was to analyze green stocks. Daily Market information was pulled from twelve companies from 2017 and 2018. By organizing an excel spreadsheet with VBA code, I was able to determine the total trade volume and yearly return for each stock. Not only that, but I was able to structure the code so that anyone can run it with a click of the button. 
 
 ## Results
 
@@ -11,7 +11,7 @@ Green stocks in 2017 did very well with 11 companies earning a positive return. 
 
 <img width="347" alt="2018 Results" src="https://user-images.githubusercontent.com/82424250/117390140-3bc3d180-aeb3-11eb-9a64-be0b613ffc45.png">
 
-To make improve the code, I refactored it using a three output array including the tickerIndex and tickerVolumes. As you can see, this significantly improved the codes performance by shaving off half a second off of each years run time. 
+To make improve the code, I refactored it using a three output array including the tickerIndex and tickerVolumes. As you can see, this significantly improved the codes performance by shaving off half a second off of each run time. 
 
 Initial Run times:
 
