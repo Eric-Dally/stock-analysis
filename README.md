@@ -11,7 +11,7 @@ Green stocks in 2017 did very well with 11 companies earning a positive return. 
 
 <img width="347" alt="2018 Results" src="https://user-images.githubusercontent.com/82424250/117390140-3bc3d180-aeb3-11eb-9a64-be0b613ffc45.png">
 
-I refactored my code to make the run times faster. As you can see, 
+To make improve the code, I refactored it using a three output array including the tickerIndex and tickerVolumes. As you can see, this significantly improved the codes performance by shaving off half a second off of each years run time. 
 
 <img width="258" alt="2017 Initial Run Time" src="https://user-images.githubusercontent.com/82424250/117390245-69a91600-aeb3-11eb-8298-8423de655b09.png">
 
@@ -20,9 +20,6 @@ I refactored my code to make the run times faster. As you can see,
 <img width="254" alt="2018 Initial Run Time" src="https://user-images.githubusercontent.com/82424250/117390377-abd25780-aeb3-11eb-9d19-87e3ee7ef6a0.png">
 
 <img width="254" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/82424250/117390442-d0c6ca80-aeb3-11eb-88cd-081a19fa6dbc.png">
-
-
-
 
 
 ## Summary
