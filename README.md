@@ -33,6 +33,6 @@ To improve the code, I refactored it by creating three output arrays including t
 
 ## Summary
 
-Refactoring this code allowed the computer to process information more quickly and efficiently. Originally, it processed all values from the startingPrice to the endingPrice. However, the refactored code was able to loop through the tickerIndex, the tickerVolumes, and the rows simultaniously allowing it to perform quicker. 
+Refactoring this code allowed the computer to process information more quickly and efficiently. Originally, it processed all values from the startingPrice to the endingPrice. However, the refactored code was able to loop through the tickerIndex, the tickerVolumes, and the rows simultaniously allowing it to perform faster.
 
 In general, refactoring code is benefitical because it reduces the computers processing time. Although half a second may not seem important for 12 stocks, it makes could make huge difference for 1000,000,000 stocks. By cutting down the run times, one can most likley imrove the run time of more complicated projects. In addition, refactoring simplifies the design of the code making it easier to understand. This not only helps with debugging but also helps one consider new ways to build the code. 
