@@ -28,5 +28,10 @@ To make improve the code, I refactored it using a three output array including t
 
 
 ## Summary
+
+Refactoring the code allowed the computer to process information more quickly and efficiently. Orginally, the code processed all values from startingPrice to the endingPrice. However, the refactored code was able loop through the tickerIndex, tickerVolumes, and the rows simultaniously allowing it to perform quicker. 
+
+Although speeding up the code by half a second does may not seem significant, it is an important factor for future projects. If I was to repeat this project with 1000 stocks instead of twelve, the processing time would be signficantly increased. Thus, refactoring even the simplest code is very advantageous when applied to larger data sets. 
+
 There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
 There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
