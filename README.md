@@ -5,7 +5,7 @@ The purpose of this project was to analyze green stocks. Daily Market informatio
 
 ## Results
 
-Green stocks in 2017 did very well with 11 companies earning a positive return. On the other hand, stocks in 2018 underperformed with 10 companies earning a negative return. 
+Green stocks in 2017 performed very well with 11 companies earning a positive return. On the other hand, stocks in 2018 underperformed with 10 companies earning a negative return. 
 
 <img width="355" alt="2017 Results" src="https://user-images.githubusercontent.com/82424250/117390133-36ff1d80-aeb3-11eb-86e6-8db4f4f2fb79.png">
 
